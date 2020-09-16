@@ -1,1 +1,1 @@
-write-output "Hello Pull"
+write-output "Hello Pulls"
