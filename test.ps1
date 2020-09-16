@@ -1,1 +1,1 @@
-write-output "hello jaka"
+write-output "hello jaka and friends"
